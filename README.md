@@ -14,4 +14,4 @@ Sistem informasi dan penjualan obat berbasis web
   * Edit obat
   * Hapus obat
   * lihat obat
-  *logout
+  * logout
